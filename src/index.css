@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.containter{
+  background-color: bisque;
+  width: 600px;
+  height: auto;
+  padding: 10px;
+  margin-top: 15px;
+}
+.previourspage{
+  width: 150px;
+  background-color:#4F1A0A;
+  color: aliceblue;
+  margin-top: 30px;
+  padding: 10px;
+  border-radius:10px;
+  font-size: 20px;
+  border: none 1px solid;
+  margin-right: 15px;
+}
+.page-button{
+  width: 40px;
+  background-color:#4F1A0A;
+  color: aliceblue;
+  margin-top: 30px;
+  padding: 10px;
+  border-radius:10px;
+  font-size: 20px;
+  border: none 1px solid;
+  margin-right: 15px;
+
+}
